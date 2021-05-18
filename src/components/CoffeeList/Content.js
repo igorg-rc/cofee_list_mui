@@ -1,7 +1,7 @@
 import { Grid } from '@material-ui/core'
 import React from 'react'
 import { CoffeeCard } from './CofeeCard'
-import data from '../data'
+import data from '../../mocData.js/CofeeData'
 
 export const Content = () => {
 
